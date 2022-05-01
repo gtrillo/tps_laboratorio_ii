@@ -36,7 +36,7 @@
             this.txtNumero1 = new System.Windows.Forms.TextBox();
             this.txtNumero2 = new System.Windows.Forms.TextBox();
             this.lblResultado = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.lstOperaciones = new System.Windows.Forms.ListBox();
             this.cmbOperador = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
@@ -88,6 +88,7 @@
             this.btnConvertiADecimal.TabIndex = 4;
             this.btnConvertiADecimal.Text = "Convertir a Decimal";
             this.btnConvertiADecimal.UseVisualStyleBackColor = true;
+            this.btnConvertiADecimal.Click += new System.EventHandler(this.btnConvertirADecimal_Click);
             // 
             // txtNumero1
             // 
@@ -115,14 +116,14 @@
             this.lblResultado.Text = "resultado";
             this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
-            // listBox1
+            // lstOperaciones
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 25;
-            this.listBox1.Location = new System.Drawing.Point(532, 16);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(287, 404);
-            this.listBox1.TabIndex = 9;
+            this.lstOperaciones.FormattingEnabled = true;
+            this.lstOperaciones.ItemHeight = 25;
+            this.lstOperaciones.Location = new System.Drawing.Point(532, 16);
+            this.lstOperaciones.Name = "lstOperaciones";
+            this.lstOperaciones.Size = new System.Drawing.Size(287, 404);
+            this.lstOperaciones.TabIndex = 9;
             // 
             // cmbOperador
             // 
@@ -144,7 +145,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(821, 429);
             this.Controls.Add(this.cmbOperador);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.lstOperaciones);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.txtNumero2);
             this.Controls.Add(this.txtNumero1);
@@ -176,7 +177,7 @@
         private System.Windows.Forms.TextBox txtNumero1;
         private System.Windows.Forms.TextBox txtNumero2;
         private System.Windows.Forms.Label lblResultado;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox lstOperaciones;
         private System.Windows.Forms.ComboBox cmbOperador;
     }
 }

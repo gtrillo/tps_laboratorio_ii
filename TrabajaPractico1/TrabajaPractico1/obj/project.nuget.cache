@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tSJdOhbu9JZGql19M2XcwshTQmIyV+7lXTk43DCkgtQvImtlb0jSJaliR5wbb/JWm49w6SHkYSW6kSDx/ErhaA==",
+  "dgSpecHash": "+epyrYDLduXloMHvh5WoVCxzsslVcN3LJw905w/TVMneNLifTHke/WUFsReMCXYCVTIJRmReqGlfWpdmPuEm7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\TrabajaPractico1.csproj",
+  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\TrabajaPractico1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gonzalo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
   ],

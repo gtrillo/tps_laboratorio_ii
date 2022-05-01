@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\TrabajaPractico1.csproj",
+      "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\TrabajaPractico1.csproj",
       "projectName": "TrabajaPractico1",
-      "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\TrabajaPractico1.csproj",
+      "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\TrabajaPractico1.csproj",
       "packagesPath": "C:\\Users\\Gonzalo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\obj\\",
+      "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\TrabajaPractico1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gonzalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj"
             }
           }
         }

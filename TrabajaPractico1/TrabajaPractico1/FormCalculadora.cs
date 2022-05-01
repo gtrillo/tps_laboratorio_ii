@@ -54,8 +54,11 @@ namespace TrabajaPractico1
         {
             double resultado = FormCalculadora.Operar(this.txtNumero1.Text, this.txtNumero2.Text, cmbOperador.Text);
             this.lblResultado.Text = resultado.ToString();
-            //btnConvertirABinario.Enabled = false;
-            //btnConvertirADecimal.Enabled = false;
+            btnCovertirABinario.Enabled = false;
+            btnConvertiADecimal.Enabled = false;
+            //lstOperaciones.Items.Add($"{this.txtNumero1.Text} {cmbOperador.SelectedItem.ToString()} {this.txtNumero2.Text} = {resultado}");
+            btnCovertirABinario.Enabled = true;
+            btnConvertiADecimal.Enabled = true;
         }
 
         private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
@@ -69,7 +72,18 @@ namespace TrabajaPractico1
         }
         private void btnCovertirABinario_Click(object sender, EventArgs e)
         {
-
+            this.btnCovertirABinario.Enabled = false;
+            this.lblResultado.Text = new Operando().DecimalBinario(this.lblResultado.Text);
+            this.btnCovertirABinario.Enabled = true;
         }
+
+        private void btnConvertirADecimal_Click(object sender, EventArgs e)
+        {
+            this.btnConvertiADecimal.Enabled = false;
+            this.lblResultado.Text = new Operando().BinarioDecimal(this.lblResultado.Text);
+            this.btnConvertiADecimal.Enabled = true;
+        }
+
+
     }
 }

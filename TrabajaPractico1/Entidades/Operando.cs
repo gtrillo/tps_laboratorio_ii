@@ -6,7 +6,7 @@ namespace Entidades
     {
 
         private double numero;
-        
+
         public Operando()
         {
             numero = 0;
@@ -77,7 +77,7 @@ namespace Entidades
 
             if (EsBinario(binario))
             {
-               for (int i = 0; i < array.Length; i++)
+                for (int i = 0; i < array.Length; i++)
                 {
                     if (array[i] == '1')
                     {
@@ -85,41 +85,51 @@ namespace Entidades
                     }
 
                 }
-                retorno = suma.ToString(); 
+                retorno = suma.ToString();
             }
             return retorno;
 
         }
 
-        /*public string DecimalBinario (double numero)
+        public string DecimalBinario(double numero)
         {
-            const double divisor = 2;
-            string numeroBinario= "";
 
-            if (numero > 0)
-            { 
-                while (numero > 0)
-                {
-                    if (numero %2 == 0)
-                    {
-                        numeroBinario = "0" + numeroBinario;
-                    }
-                    else
-                    {
-                        numeroBinario = "1" + numeroBinario;
-                    }
-                }
-            }else if (numero == 0)
+            string binario = "";
+            int auxNumero = (int)numero;
+
+            while (auxNumero>0)
             {
-                numeroBinario = "0";
+                if ((auxNumero % 2)!=0)
+                {
+                    binario = "1" + binario;
+                }else
+                {
+                    binario = "0" + binario;
+                 
+                }
+                    auxNumero = auxNumero / 2;
             }
 
-            //falta terminar
+           return binario;
+           
+        }
 
+        public string DecimalBinario(string strnumero)
+        {
+            double numero;
+            string cadena;
 
+            if (double.TryParse(strnumero, out numero))
+            {
+                cadena = DecimalBinario(numero);
+            }
+            else
+            {
+                cadena = "Valor inválido";
+            }
+            return cadena;
 
-        */
-
+        }
     }//finaliza la clase 
 }
 

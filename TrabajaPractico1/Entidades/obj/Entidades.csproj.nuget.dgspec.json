@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Gonzalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Laboratorio y programacion 2\\tps_laboratorio_ii\\TrabajoPractico1\\TrabajaPractico1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gonzalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
