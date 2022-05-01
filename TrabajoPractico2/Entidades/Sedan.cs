@@ -30,7 +30,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Sedan son 'Mediano'
+        /// Propiedad. Sedan son 'Mediano'
         /// </summary>
         protected override ETamanio Tamanio
         {

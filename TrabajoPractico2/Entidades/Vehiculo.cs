@@ -25,6 +25,12 @@ namespace Entidades
         string chasis;
         ConsoleColor color;
 
+        /// <summary>
+        /// constructor
+        /// </summary>
+        /// <param name="chasis"></param>
+        /// <param name="marca"></param>
+        /// <param name="color"></param>
         public Vehiculo(string chasis, EMarca marca, ConsoleColor color)
         {
             this.chasis = chasis;
@@ -40,7 +46,6 @@ namespace Entidades
             get;
         }
 
-
         /// <summary>
         /// Publica todos los datos del Vehiculo.
         /// </summary>
@@ -49,6 +54,8 @@ namespace Entidades
         {
             return (String)this;
         }
+
+
 
         public static explicit operator string(Vehiculo p)
         {

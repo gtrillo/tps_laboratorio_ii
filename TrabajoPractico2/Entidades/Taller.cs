@@ -19,6 +19,9 @@ namespace Entidades
         }
 
         #region "Constructores"
+        /// <summary>
+        /// constructor crea una lista de vehiculos
+        /// </summary>
         private Taller()
         {
             this.vehiculos = new List<Vehiculo>();

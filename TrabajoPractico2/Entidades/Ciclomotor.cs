@@ -8,6 +8,12 @@ namespace Entidades
 {
     public class Ciclomotor : Vehiculo
     {
+        /// <summary>
+        /// constructor
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="chasis"></param>
+        /// <param name="color"></param>
         public Ciclomotor(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
@@ -15,7 +21,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Ciclomotor son 'Chico'
+        /// Propiedad. Ciclomotor son 'Chico'
         /// </summary>
         protected override ETamanio Tamanio
         {
@@ -30,7 +36,6 @@ namespace Entidades
             sb.AppendLine(base.Mostrar());
             sb.AppendLine($"TAMAÑO : {this.Tamanio}");
             sb.AppendLine("---------------------");
-
             return sb.ToString();
         }
     }
