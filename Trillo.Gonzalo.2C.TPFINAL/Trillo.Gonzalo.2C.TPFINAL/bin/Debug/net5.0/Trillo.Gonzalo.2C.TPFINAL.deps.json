@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Trillo.Gonzalo.2C.TPFINAL/1.0.0": {
+        "runtime": {
+          "Trillo.Gonzalo.2C.TPFINAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trillo.Gonzalo.2C.TPFINAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

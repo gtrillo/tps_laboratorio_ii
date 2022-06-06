@@ -1,0 +1,12 @@
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\bin\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.deps.json
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\bin\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.dll
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\bin\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.pdb
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.dll
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\refint\Trillo.Gonzalo.2C.TPFINAL.dll
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\Trillo.Gonzalo.2C.TPFINAL.pdb
+C:\Users\Gonzalo\Desktop\Trillo.Gonzalo.2C.TPFINAL\Trillo.Gonzalo.2C.TPFINAL\obj\Debug\net5.0\ref\Trillo.Gonzalo.2C.TPFINAL.dll
